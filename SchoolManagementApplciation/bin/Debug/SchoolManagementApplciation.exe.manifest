@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="9542104">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="9541120">
       <assemblyIdentity name="SchoolManagementApplciation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>4Z35SnYUCtjWTXg6IhbyuVagGYo=</dsig:DigestValue>
+        <dsig:DigestValue>xjR8xhqSpY8I4WVl8t6C1nGNDyg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -75,13 +75,13 @@
       <dsig:DigestValue>MzxEUImMvBhCD3WIMQo4HTua5SA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SchoolManagementApplciation.exe.config" size="1187">
+  <file name="SchoolManagementApplciation.exe.config" size="1164">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>8Iv5fLMuigvMFkNnBDUv6kdFP84=</dsig:DigestValue>
+      <dsig:DigestValue>BMJbZGwrXIRek+kuufU2U58/ink=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
