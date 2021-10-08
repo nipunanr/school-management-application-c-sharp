@@ -142,17 +142,13 @@
 
         internal System.Windows.Forms.DataGridView DataGridView1;
         internal System.Windows.Forms.TextBox txtsearch;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn EmailAddressDataGridViewTextBoxColumn;
         internal System.Windows.Forms.Button bnnew;
         internal System.Windows.Forms.Button bnprint;
         internal System.Windows.Forms.Button bndelete;
         internal System.Windows.Forms.Button bnrefresh;
         internal System.Windows.Forms.DataGridViewTextBoxColumn RegistrationNumberDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn FullNameDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridViewTextBoxColumn ContactPhoneNumberDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn DataGridViewTextBoxColumn4;
         internal System.Windows.Forms.Label Label1;
-
-        #endregion
     }
 }
+#endregion

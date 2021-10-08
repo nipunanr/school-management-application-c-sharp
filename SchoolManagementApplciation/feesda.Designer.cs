@@ -109,13 +109,9 @@
         internal System.Windows.Forms.Button bnprint;
         internal System.Drawing.Printing.PrintDocument document;
         internal System.Windows.Forms.Label Label1;
-        internal System.Windows.Forms.BindingSource FeesBindingSource;
         internal System.Windows.Forms.DataGridViewTextBoxColumn IDDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn FullNameDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridViewTextBoxColumn RegistrationNumberDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn FeesDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridViewTextBoxColumn DueDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn LastpaidDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridView DataGridView1;
         #endregion
     }

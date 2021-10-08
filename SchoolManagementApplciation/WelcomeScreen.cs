@@ -23,5 +23,10 @@ namespace SchoolManagementApplciation
             new SqlControl().ExecProc("exec dbo.update_fees");
             this.Close();
         }
+
+        private void MainLayoutPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

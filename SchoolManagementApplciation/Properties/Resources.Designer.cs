@@ -213,6 +213,46 @@ namespace SchoolManagementApplciation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _268b7968774bcc0fc99124315c428850 {
+            get {
+                object obj = ResourceManager.GetObject("268b7968774bcc0fc99124315c428850", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _268b7968774bcc0fc99124315c428850___Copy {
+            get {
+                object obj = ResourceManager.GetObject("268b7968774bcc0fc99124315c428850 - Copy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap acc {
+            get {
+                object obj = ResourceManager.GetObject("acc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap acc___Copy {
+            get {
+                object obj = ResourceManager.GetObject("acc - Copy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap attts {
             get {
                 object obj = ResourceManager.GetObject("attts", resourceCulture);

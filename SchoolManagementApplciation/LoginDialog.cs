@@ -53,5 +53,25 @@ namespace SchoolManagementApplciation
         {
             this.Icon = Utils.GetIcon(SchoolManagementApplciation.Properties.Resources._1459676300_Login_Manager);
         }
+
+        private void LogoPictureBox_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

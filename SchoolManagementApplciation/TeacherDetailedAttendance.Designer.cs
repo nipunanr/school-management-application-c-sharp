@@ -146,10 +146,8 @@
         internal System.Windows.Forms.Label Label1;
         internal System.Windows.Forms.Button bnprint;
         internal System.Windows.Forms.Label Label2;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn TotalMonthDataGridViewTextBoxColumn;
         internal System.Windows.Forms.Button bnsingle;
         internal System.Drawing.Printing.PrintDocument PrintDocument1;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn PresentAbsentDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridView DataGridView1;
 
         #endregion

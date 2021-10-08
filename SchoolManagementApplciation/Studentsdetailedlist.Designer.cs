@@ -201,7 +201,6 @@
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.Label Label4;
         internal System.Drawing.Printing.PrintDocument PrintDocument1;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn PresentAbsentDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridView DataGridView1;
         internal System.Windows.Forms.Button Button1;
 

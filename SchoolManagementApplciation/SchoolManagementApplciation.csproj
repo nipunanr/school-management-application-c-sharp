@@ -416,6 +416,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1459676203_graduation.ico" />
+    <None Include="Resources\acc.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

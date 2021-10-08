@@ -141,7 +141,6 @@
         internal System.Windows.Forms.Button bndelete;
         internal System.Windows.Forms.Label Label1;
         internal System.Windows.Forms.DataGridViewTextBoxColumn StaffIDDataGridViewTextBoxColumn;
-        internal System.Windows.Forms.DataGridViewTextBoxColumn FullNameDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridViewTextBoxColumn PhoneNumberDataGridViewTextBoxColumn;
         internal System.Windows.Forms.DataGridViewTextBoxColumn EmailAddressDataGridViewTextBoxColumn;
         internal System.Windows.Forms.Button bnprint;

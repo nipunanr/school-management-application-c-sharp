@@ -436,8 +436,6 @@
 
         private System.Windows.Forms.TextBox txtfullname;
         private System.Windows.Forms.ComboBox cbogender;
-        private System.Windows.Forms.TextBox Txtfullname;
-        private System.Windows.Forms.ComboBox bogender;
         private System.Windows.Forms.TextBox txtaddress;
         private System.Windows.Forms.TextBox txtphone;
         private System.Windows.Forms.TextBox txtemail;
