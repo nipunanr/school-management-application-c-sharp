@@ -149,5 +149,10 @@ namespace SchoolManagementApplciation
             PictureBox1.Image = null;
             txtregno.Focus();
         }
+
+        private void cboclass_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
