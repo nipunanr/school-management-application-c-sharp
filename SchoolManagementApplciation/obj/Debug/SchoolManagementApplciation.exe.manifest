@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="10110976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="10113024">
       <assemblyIdentity name="SchoolManagementApplciation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QVQTsCG/TJTVmUBMb33/beN4600=</dsig:DigestValue>
+        <dsig:DigestValue>YCDApJc/2zflQw3rRFZPt7mQLUc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,6 +73,42 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>MzxEUImMvBhCD3WIMQo4HTua5SA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\acc - Copy.png" size="121318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DFS0UnyXVEsBM98+7vjx6cQ58J0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\acc.png" size="121318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DFS0UnyXVEsBM98+7vjx6cQ58J0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\back.jpg" size="229725">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5KfHbvFj/sQxWF7+IkppQFE2qUc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\fex.jpg" size="184354">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LgjlPvwmQIZnK0qZExCW6tc/zeQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SchoolManagementApplciation.exe.config" size="1164">

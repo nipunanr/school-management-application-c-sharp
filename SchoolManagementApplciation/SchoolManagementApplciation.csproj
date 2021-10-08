@@ -372,9 +372,6 @@
     <None Include="Resources\exting.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\fex.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\gradess.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -416,7 +413,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1459676203_graduation.ico" />
-    <None Include="Resources\acc.png" />
+    <Content Include="Resources\acc - Copy.png" />
+    <Content Include="Resources\acc.png" />
+    <Content Include="Resources\back.jpg" />
+    <None Include="Resources\back1.jpg" />
+    <Content Include="Resources\fex.jpg" />
+    <None Include="Resources\268b7968774bcc0fc99124315c428850 - Copy.jpg" />
+    <None Include="Resources\268b7968774bcc0fc99124315c428850.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

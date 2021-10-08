@@ -455,6 +455,9 @@ namespace SchoolManagementApplciation
             }
         }
 
-       
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.AddStudent.CreateOrShow();
+        }
     }
 }

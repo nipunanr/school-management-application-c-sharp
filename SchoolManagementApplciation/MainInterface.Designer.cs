@@ -140,7 +140,7 @@
             // ToolStrip
             // 
             this.ToolStrip.AutoSize = false;
-            this.ToolStrip.BackColor = System.Drawing.SystemColors.Control;
+            this.ToolStrip.BackColor = System.Drawing.Color.White;
             this.ToolStrip.ImageScalingSize = new System.Drawing.Size(28, 28);
             this.ToolStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ToolStripButton7,
@@ -165,7 +165,7 @@
             this.ToolStripSeparator18});
             this.ToolStrip.Location = new System.Drawing.Point(0, 0);
             this.ToolStrip.Name = "ToolStrip";
-            this.ToolStrip.Size = new System.Drawing.Size(946, 33);
+            this.ToolStrip.Size = new System.Drawing.Size(1421, 33);
             this.ToolStrip.TabIndex = 6;
             this.ToolStrip.Text = "ToolStrip";
             // 
@@ -272,7 +272,7 @@
             // ToolStripSeparator15
             // 
             this.ToolStripSeparator15.Name = "ToolStripSeparator15";
-            this.ToolStripSeparator15.Size = new System.Drawing.Size(6, 60);
+            this.ToolStripSeparator15.Size = new System.Drawing.Size(6, 33);
             // 
             // ToolStripButton18
             // 
@@ -280,14 +280,14 @@
             this.ToolStripButton18.Image = global::SchoolManagementApplciation.Properties.Resources.linkss;
             this.ToolStripButton18.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.ToolStripButton18.Name = "ToolStripButton18";
-            this.ToolStripButton18.Size = new System.Drawing.Size(134, 32);
+            this.ToolStripButton18.Size = new System.Drawing.Size(134, 30);
             this.ToolStripButton18.Text = "Manage Users";
             this.ToolStripButton18.Click += new System.EventHandler(this.ToolStripButton18_Click);
             // 
             // ToolStripSeparator16
             // 
             this.ToolStripSeparator16.Name = "ToolStripSeparator16";
-            this.ToolStripSeparator16.Size = new System.Drawing.Size(6, 60);
+            this.ToolStripSeparator16.Size = new System.Drawing.Size(6, 33);
             // 
             // ToolStripButton19
             // 
@@ -295,14 +295,14 @@
             this.ToolStripButton19.Image = global::SchoolManagementApplciation.Properties.Resources.logggg;
             this.ToolStripButton19.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.ToolStripButton19.Name = "ToolStripButton19";
-            this.ToolStripButton19.Size = new System.Drawing.Size(94, 32);
+            this.ToolStripButton19.Size = new System.Drawing.Size(94, 30);
             this.ToolStripButton19.Text = "Log Out";
             this.ToolStripButton19.Click += new System.EventHandler(this.ToolStripButton19_Click);
             // 
             // ToolStripSeparator17
             // 
             this.ToolStripSeparator17.Name = "ToolStripSeparator17";
-            this.ToolStripSeparator17.Size = new System.Drawing.Size(6, 60);
+            this.ToolStripSeparator17.Size = new System.Drawing.Size(6, 33);
             // 
             // ToolStripButton20
             // 
@@ -310,14 +310,14 @@
             this.ToolStripButton20.Image = global::SchoolManagementApplciation.Properties.Resources.exting;
             this.ToolStripButton20.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.ToolStripButton20.Name = "ToolStripButton20";
-            this.ToolStripButton20.Size = new System.Drawing.Size(128, 32);
+            this.ToolStripButton20.Size = new System.Drawing.Size(128, 30);
             this.ToolStripButton20.Text = "Exit Software";
             this.ToolStripButton20.Click += new System.EventHandler(this.ToolStripButton20_Click);
             // 
             // ToolStripSeparator18
             // 
             this.ToolStripSeparator18.Name = "ToolStripSeparator18";
-            this.ToolStripSeparator18.Size = new System.Drawing.Size(6, 60);
+            this.ToolStripSeparator18.Size = new System.Drawing.Size(6, 33);
             // 
             // ToolStripButton1
             // 
@@ -403,14 +403,16 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Control;
+            this.AutoSize = true;
+            this.BackColor = System.Drawing.Color.White;
+            this.BackgroundImage = global::SchoolManagementApplciation.Properties.Resources.back;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(946, 547);
+            this.ClientSize = new System.Drawing.Size(1421, 581);
             this.Controls.Add(this.ToolStrip);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.Name = "MainInterface";
-            this.Text = "School Management Software";
+            this.Text = "Bright Academy | Student Management System";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.MainInterface_Load);
             this.ToolStrip.ResumeLayout(false);
