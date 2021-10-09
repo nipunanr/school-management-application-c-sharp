@@ -327,5 +327,9 @@ namespace SchoolManagementApplciation
                 see();
         }
 
+        private void Label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

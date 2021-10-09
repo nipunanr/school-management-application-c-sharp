@@ -49,5 +49,10 @@ namespace SchoolManagementApplciation
             ((MainInterface)this.MdiParent).ManageServices.ManageServices_Load(sender, e);
             this.Close();
         }
+
+        private void Label11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

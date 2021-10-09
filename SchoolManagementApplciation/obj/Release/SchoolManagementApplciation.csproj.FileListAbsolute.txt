@@ -36,3 +36,41 @@ C:\Users\pushparaj\source\repos\SchoolManagementApplciation\SchoolManagementAppl
 C:\Users\pushparaj\source\repos\SchoolManagementApplciation\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.exe
 C:\Users\pushparaj\source\repos\SchoolManagementApplciation\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.pdb
 C:\Users\pushparaj\source\repos\SchoolManagementApplciation\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.csprojAssemblyReference.cache
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\App.config
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Newtonsoft.Json.dll
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Newtonsoft.Json.xml
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.csproj.AssemblyReference.cache
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.AddService.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.AddStudent.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.AddTeacher.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.AssociateService.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.Edits.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.EnterMarkss.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.feesda.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.FeesStructures.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.LoginDialog.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.MainInterface.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.ManageServices.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.ManageStudents.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.ManageTeacher.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.ManageUsers.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.Properties.Resources.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.Selection.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.Services.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.StudentAt.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.Studentsdetailedlist.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.TeacherDetailedAttendance.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.TeachersAttendance.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.WelcomeScreen.resources
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.csproj.GenerateResource.cache
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.csproj.CoreCompileInputs.cache
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\SchoolManagementApplciation.csproj.CopyComplete
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Bright Academy Management System.exe.config
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Bright Academy Management System.exe.manifest
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Bright Academy Management System.application
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Bright Academy Management System.exe
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\bin\Release\Bright Academy Management System.pdb
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\Bright Academy Management System.exe.manifest
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\Bright Academy Management System.application
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\Bright Academy Management System.exe
+C:\Users\nipun\source\repos\school-management-application-c-sharp\SchoolManagementApplciation\obj\Release\Bright Academy Management System.pdb

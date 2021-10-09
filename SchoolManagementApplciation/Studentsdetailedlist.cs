@@ -238,5 +238,10 @@ namespace SchoolManagementApplciation
             else
                 MessageBox.Show("Please Select A Student !", "Select", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
+
+        private void Label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

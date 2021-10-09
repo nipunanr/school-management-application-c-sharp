@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="10133504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SchoolManagementApplciation.exe" size="10299392">
       <assemblyIdentity name="SchoolManagementApplciation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>R+c18z2iCsxdNY1GqQc8OmqBC4s=</dsig:DigestValue>
+        <dsig:DigestValue>uSdWeuZmPLURg/nUTX0Ea4oYDAQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -100,6 +100,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>5KfHbvFj/sQxWF7+IkppQFE2qUc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\favicon2.ico" size="15406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aRrEj6ioGEZgW4JhML28mcT7NPE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\fex.jpg" size="184354">

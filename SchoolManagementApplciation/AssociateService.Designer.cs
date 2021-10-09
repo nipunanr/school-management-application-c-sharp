@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AssociateService));
             this.cboname = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -40,7 +41,7 @@
             this.cboname.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboname.FormattingEnabled = true;
             this.cboname.Location = new System.Drawing.Point(152, 25);
-            this.cboname.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cboname.Margin = new System.Windows.Forms.Padding(2);
             this.cboname.Name = "cboname";
             this.cboname.Size = new System.Drawing.Size(138, 21);
             this.cboname.TabIndex = 3;
@@ -52,19 +53,21 @@
             this.label1.Location = new System.Drawing.Point(21, 25);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(76, 13);
+            this.label1.Size = new System.Drawing.Size(58, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Select Service";
+            this.label1.Text = "Select Fee";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(76, 124);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.BackColor = System.Drawing.Color.DarkRed;
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(315, 25);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(145, 44);
+            this.button1.Size = new System.Drawing.Size(132, 74);
             this.button1.TabIndex = 5;
-            this.button1.Text = "Associate";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Text = "Enter";
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // cbojoiningterm
@@ -76,7 +79,7 @@
             "Second Term (oct-dec)",
             "Third Term (jan-mar)"});
             this.cbojoiningterm.Location = new System.Drawing.Point(152, 78);
-            this.cbojoiningterm.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbojoiningterm.Margin = new System.Windows.Forms.Padding(2);
             this.cbojoiningterm.Name = "cbojoiningterm";
             this.cbojoiningterm.Size = new System.Drawing.Size(138, 21);
             this.cbojoiningterm.TabIndex = 6;
@@ -95,16 +98,18 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(314, 183);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(471, 122);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cbojoiningterm);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cboname);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "AssociateService";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "AssociateService";
+            this.Text = "Bright Academy | Select Fee";
             this.Load += new System.EventHandler(this.AssociateService_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

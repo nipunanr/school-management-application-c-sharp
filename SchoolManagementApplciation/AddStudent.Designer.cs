@@ -58,11 +58,11 @@
             this.Ftxt = new System.Windows.Forms.TextBox();
             this.Label15 = new System.Windows.Forms.Label();
             this.dtp = new System.Windows.Forms.DateTimePicker();
-            this.PictureBox1 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
+            this.PictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtfullname
@@ -121,65 +121,6 @@
             // 
             // cboclass
             // 
-            this.cboclass.AutoCompleteCustomSource.AddRange(new string[] {
-            "----Arts----",
-            "Arabic",
-            "Art",
-            "Bharatha Natayam",
-            "Buddhism",
-            "Buddhist Civilization",
-            "Chinese",
-            "Christian Civilization",
-            "Christianity",
-            "Communication and Media Studies",
-            "Dance",
-            "Economics",
-            "English",
-            "French",
-            "Geography",
-            "German",
-            "Greek and Roman Civilization",
-            "Hindi Language",
-            "Hindu Civilization",
-            "Hinduism",
-            "History",
-            "Home Economics",
-            "Islam",
-            "Islamic Civilization",
-            "Japan Language",
-            "Logic and Scientific Method",
-            "Oriental Music",
-            "Pali Language",
-            "Political Science",
-            "Russian",
-            "Sanskrit",
-            "Sinhala",
-            "Tamil",
-            "Western Music",
-            "----Commerce----",
-            "Accounting",
-            "Business",
-            "Statistics Business",
-            "Studies Economics",
-            "----Bio Science-----",
-            "Agriculture",
-            "Bio System Technology",
-            "Biology",
-            "Chemistry",
-            "Physics",
-            "Science for Technology",
-            "----Physical Science (Maths)----\t",
-            "Chemistry",
-            "Combine Mathematics",
-            "Higher Mathematics",
-            "Physics",
-            "----Technology----",
-            "Agro Technology",
-            "Engineering Technology",
-            "General Information Technology",
-            "Information & Communication",
-            "Technology"});
-            this.cboclass.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cboclass.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.cboclass.BackColor = System.Drawing.Color.MistyRose;
             this.cboclass.CausesValidation = false;
@@ -241,22 +182,15 @@
             "Engineering Technology",
             "General Information Technology",
             "Information & Communication Technology"});
-            this.cboclass.Location = new System.Drawing.Point(597, 333);
+            this.cboclass.Location = new System.Drawing.Point(411, 334);
             this.cboclass.Margin = new System.Windows.Forms.Padding(2);
             this.cboclass.Name = "cboclass";
-            this.cboclass.Size = new System.Drawing.Size(139, 21);
+            this.cboclass.Size = new System.Drawing.Size(170, 21);
             this.cboclass.TabIndex = 11;
             this.cboclass.SelectedIndexChanged += new System.EventHandler(this.cboclass_SelectedIndexChanged);
             // 
             // cbostream
             // 
-            this.cbostream.AutoCompleteCustomSource.AddRange(new string[] {
-            "Science",
-            "Maths",
-            "Commerce",
-            "Arts",
-            "Technology",
-            "General"});
             this.cbostream.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbostream.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.cbostream.BackColor = System.Drawing.Color.MistyRose;
@@ -267,10 +201,10 @@
             "B",
             "C",
             "D"});
-            this.cbostream.Location = new System.Drawing.Point(412, 333);
+            this.cbostream.Location = new System.Drawing.Point(597, 334);
             this.cbostream.Margin = new System.Windows.Forms.Padding(2);
             this.cbostream.Name = "cbostream";
-            this.cbostream.Size = new System.Drawing.Size(169, 21);
+            this.cbostream.Size = new System.Drawing.Size(139, 21);
             this.cbostream.TabIndex = 12;
             // 
             // bnloadpicture
@@ -405,7 +339,7 @@
             this.Label8.Name = "Label8";
             this.Label8.Size = new System.Drawing.Size(43, 13);
             this.Label8.TabIndex = 21;
-            this.Label8.Text = "Subject";
+            this.Label8.Text = "Section";
             // 
             // Label9
             // 
@@ -413,9 +347,9 @@
             this.Label9.Location = new System.Drawing.Point(412, 314);
             this.Label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Label9.Name = "Label9";
-            this.Label9.Size = new System.Drawing.Size(79, 13);
+            this.Label9.Size = new System.Drawing.Size(32, 13);
             this.Label9.TabIndex = 22;
-            this.Label9.Text = "Subject Stream";
+            this.Label9.Text = "Class";
             // 
             // Label10
             // 
@@ -502,18 +436,6 @@
             this.dtp.TabIndex = 6;
             this.dtp.Value = new System.DateTime(2000, 10, 8, 23, 45, 0, 0);
             // 
-            // PictureBox1
-            // 
-            this.PictureBox1.BackColor = System.Drawing.Color.MistyRose;
-            this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.PictureBox1.Location = new System.Drawing.Point(411, 47);
-            this.PictureBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.PictureBox1.Name = "PictureBox1";
-            this.PictureBox1.Size = new System.Drawing.Size(127, 133);
-            this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.PictureBox1.TabIndex = 9;
-            this.PictureBox1.TabStop = false;
-            // 
             // label12
             // 
             this.label12.AutoSize = true;
@@ -534,6 +456,18 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 35;
             this.pictureBox2.TabStop = false;
+            // 
+            // PictureBox1
+            // 
+            this.PictureBox1.BackColor = System.Drawing.Color.MistyRose;
+            this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.PictureBox1.Location = new System.Drawing.Point(411, 47);
+            this.PictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.PictureBox1.Name = "PictureBox1";
+            this.PictureBox1.Size = new System.Drawing.Size(127, 133);
+            this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.PictureBox1.TabIndex = 9;
+            this.PictureBox1.TabStop = false;
             // 
             // AddStudent
             // 
@@ -581,8 +515,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bright Academy | Student Registration";
             this.Load += new System.EventHandler(this.AddStudent_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

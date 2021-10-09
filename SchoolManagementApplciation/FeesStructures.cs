@@ -201,5 +201,10 @@ namespace SchoolManagementApplciation
                 cboname_SelectedIndexChanged(sender, e);
             }
         }
+
+        private void Grpdetails_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

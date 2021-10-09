@@ -250,8 +250,8 @@
             this.toolStripButton22.Image = global::SchoolManagementApplciation.Properties.Resources.gear_icon;
             this.toolStripButton22.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton22.Name = "toolStripButton22";
-            this.toolStripButton22.Size = new System.Drawing.Size(94, 30);
-            this.toolStripButton22.Text = "Services";
+            this.toolStripButton22.Size = new System.Drawing.Size(127, 30);
+            this.toolStripButton22.Text = "Fee Structure";
             this.toolStripButton22.Click += new System.EventHandler(this.ToolStripButton22_Click);
             // 
             // ToolStripSeparator14

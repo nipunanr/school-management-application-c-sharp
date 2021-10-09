@@ -63,6 +63,16 @@ namespace SchoolManagementApplciation.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1200px_No_Image_Placeholder_svg {
+            get {
+                object obj = ResourceManager.GetObject("1200px-No-Image-Placeholder.svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1459676046_floppy_disk {
             get {
                 object obj = ResourceManager.GetObject("1459676046_floppy-disk", resourceCulture);
@@ -366,16 +376,6 @@ namespace SchoolManagementApplciation.Properties {
         internal static System.Drawing.Bitmap infosis {
             get {
                 object obj = ResourceManager.GetObject("infosis", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Lakshmi_2 {
-            get {
-                object obj = ResourceManager.GetObject("Lakshmi 2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
