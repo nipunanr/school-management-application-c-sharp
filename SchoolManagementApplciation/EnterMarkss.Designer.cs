@@ -38,7 +38,6 @@
             this.Label2 = new System.Windows.Forms.Label();
             this.lblcurentdate = new System.Windows.Forms.Label();
             this.bnclear = new System.Windows.Forms.Button();
-            this.bnprint = new System.Windows.Forms.Button();
             this.PrintDocument1 = new System.Drawing.Printing.PrintDocument();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.Label11 = new System.Windows.Forms.Label();
@@ -52,7 +51,7 @@
             this.DataGridView1.AllowUserToDeleteRows = false;
             this.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DataGridView1.Location = new System.Drawing.Point(24, 164);
-            this.DataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.DataGridView1.Margin = new System.Windows.Forms.Padding(2);
             this.DataGridView1.Name = "DataGridView1";
             this.DataGridView1.RowTemplate.Height = 24;
             this.DataGridView1.Size = new System.Drawing.Size(871, 362);
@@ -66,7 +65,7 @@
             this.cboname.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboname.FormattingEnabled = true;
             this.cboname.Location = new System.Drawing.Point(24, 87);
-            this.cboname.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cboname.Margin = new System.Windows.Forms.Padding(2);
             this.cboname.Name = "cboname";
             this.cboname.Size = new System.Drawing.Size(186, 21);
             this.cboname.TabIndex = 1;
@@ -76,7 +75,7 @@
             // 
             this.dtp.CalendarMonthBackground = System.Drawing.Color.MistyRose;
             this.dtp.Location = new System.Drawing.Point(24, 120);
-            this.dtp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dtp.Margin = new System.Windows.Forms.Padding(2);
             this.dtp.Name = "dtp";
             this.dtp.Size = new System.Drawing.Size(220, 20);
             this.dtp.TabIndex = 2;
@@ -86,8 +85,8 @@
             // 
             this.bnload.BackColor = System.Drawing.Color.DarkRed;
             this.bnload.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.bnload.Location = new System.Drawing.Point(523, 112);
-            this.bnload.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bnload.Location = new System.Drawing.Point(653, 112);
+            this.bnload.Margin = new System.Windows.Forms.Padding(2);
             this.bnload.Name = "bnload";
             this.bnload.Size = new System.Drawing.Size(119, 41);
             this.bnload.TabIndex = 3;
@@ -128,7 +127,7 @@
             this.cbosub.BackColor = System.Drawing.Color.MistyRose;
             this.cbosub.FormattingEnabled = true;
             this.cbosub.Location = new System.Drawing.Point(281, 87);
-            this.cbosub.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbosub.Margin = new System.Windows.Forms.Padding(2);
             this.cbosub.Name = "cbosub";
             this.cbosub.Size = new System.Drawing.Size(184, 21);
             this.cbosub.TabIndex = 4;
@@ -171,26 +170,13 @@
             this.bnclear.BackColor = System.Drawing.Color.Sienna;
             this.bnclear.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.bnclear.Location = new System.Drawing.Point(776, 112);
-            this.bnclear.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bnclear.Margin = new System.Windows.Forms.Padding(2);
             this.bnclear.Name = "bnclear";
             this.bnclear.Size = new System.Drawing.Size(119, 41);
             this.bnclear.TabIndex = 8;
             this.bnclear.Text = "Delete Record";
             this.bnclear.UseVisualStyleBackColor = false;
             this.bnclear.Click += new System.EventHandler(this.bnclear_Click);
-            // 
-            // bnprint
-            // 
-            this.bnprint.BackColor = System.Drawing.Color.DarkRed;
-            this.bnprint.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.bnprint.Location = new System.Drawing.Point(646, 112);
-            this.bnprint.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.bnprint.Name = "bnprint";
-            this.bnprint.Size = new System.Drawing.Size(126, 41);
-            this.bnprint.TabIndex = 9;
-            this.bnprint.Text = "PRINT";
-            this.bnprint.UseVisualStyleBackColor = false;
-            this.bnprint.Click += new System.EventHandler(this.bnprint_Click);
             // 
             // PrintDocument1
             // 
@@ -228,7 +214,6 @@
             this.ClientSize = new System.Drawing.Size(922, 547);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.Label11);
-            this.Controls.Add(this.bnprint);
             this.Controls.Add(this.bnclear);
             this.Controls.Add(this.lblcurentdate);
             this.Controls.Add(this.Label2);
@@ -239,7 +224,7 @@
             this.Controls.Add(this.cboname);
             this.Controls.Add(this.DataGridView1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "EnterMarkss";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bright Academy | Update Student Marks";
@@ -261,7 +246,6 @@
         internal System.Windows.Forms.Label Label2;
         internal System.Windows.Forms.Label lblcurentdate;
         internal System.Windows.Forms.Button bnclear;
-        internal System.Windows.Forms.Button bnprint;
         internal System.Drawing.Printing.PrintDocument PrintDocument1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label Label11;
